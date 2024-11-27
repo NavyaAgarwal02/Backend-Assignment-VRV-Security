@@ -33,7 +33,7 @@ This backend application for a voting system demonstrates **Authentication**, **
 ## Installation
 
 1. **Clone the repository:**
-   `git clone https://github.com/NavyaAgarwal02/NodeJS_Voting_App.git` 
+   `git clone https://github.com/NavyaAgarwal02/Backend-Assignment-VRV-Security` 
    
 2. **Install dependencies:**
   `npm install`
@@ -88,7 +88,8 @@ This backend application for a voting system demonstrates **Authentication**, **
 
 ## Submission Details
   - This project is hosted on GitHub:
-    ``
+    `https://github.com/NavyaAgarwal02/Backend-Assignment-VRV-Security`
+    
 ### Instructions to Test
 1. Clone the repository.
 2. Install dependencies and configure environment variables.
