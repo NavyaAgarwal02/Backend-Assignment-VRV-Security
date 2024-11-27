@@ -1,4 +1,4 @@
-# Voting Application for VRV Security Backend Developer Assignment
+# Voting Application for VRV Security Backend Developer Assignment [Role-Based Access Control (RBAC) UI]
 
 This backend application for a voting system demonstrates **Authentication**, **Authorization**, and **Role-Based Access Control (RBAC)**. Users have specific roles, such as Admin or Voter, with varying levels of access and permissions.
 
